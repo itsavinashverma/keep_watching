@@ -1,0 +1,16 @@
+
+# Build outputs
+bin/
+obj/
+*.exe
+*.pdb
+
+# Local files
+*.log
+*.tmp
+.vs/
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
